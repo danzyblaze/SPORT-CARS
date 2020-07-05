@@ -1,0 +1,31 @@
+h1 {
+  color: peru;
+  font-size: 3rem;
+  background: black;
+}
+h2 {
+  color: rosybrown;
+  font-size: 2rem;
+}
+#heading {
+  color: violet;
+  background: black;
+}
+#footer {
+  color: gold;
+  background: indigo;
+}
+#h3 {
+  font-size: 5rem;background: gold;
+}
+p {
+  color: blue;
+  background: black;
+}
+.blue{color: blue;}
+.red{color: red;}
+.white{color: white;}
+.black{color: black;}
+ul{color:blue}
+#LOGO {height: 60vh; width: 100vw; }
+table{color: gold;}
